@@ -1,3 +1,7 @@
+## 1.6.0 2024-08-31
+* Flutter 3.22 updates
+* Upgrade dependencies path_provider, screenshot
+* Upgrade example app dependencies url_launcher , permission_handler, cupertino_icons 
 ## 1.5.0 2023-12-21
 * Rename Easing to MpEasing to not conflict with Flutter Easing
 * Export most classes in mp_chart so that users only import mp_chart instead of individual classes

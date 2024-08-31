@@ -8,8 +8,8 @@ environment:
 
 dependencies:
   intl: '>=0.18.1 <0.20.0'
-  path_provider: ^2.1.1
-  screenshot: ^2.1.0
+  path_provider: ^2.1.4
+  screenshot: ^3.0.0
   path_drawing: ^1.0.1
 #  image_gallery_saver: ^1.7.1
   optimized_gesture_detector:
