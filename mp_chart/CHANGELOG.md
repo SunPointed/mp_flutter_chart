@@ -1,3 +1,6 @@
+## 1.7.0 2024-09-20
+* Update example Gradle to 8.2 DSL
+* BREAKING: Update minimum supported Flutter to 3.22, Dart to 3.3
 ## 1.6.0 2024-08-31
 * Flutter 3.22 updates
 * Upgrade dependencies path_provider, screenshot
